@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Injector": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Alan_\\source\\CSharpLessons\\chat\\dataset\\SCH.log"
+    }
+  }
+}
